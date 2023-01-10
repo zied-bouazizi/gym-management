@@ -10,8 +10,3 @@ You can use the following commands to schedule Cron Jobs
 php crons\inactive_member.php
 php crons\create_notifications.php
 ```
-
-### Demo
-https://gymmanagementdemo.herokuapp.com <br>
-Username: super_user <br>
-Password: super_user 
